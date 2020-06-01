@@ -1,5 +1,5 @@
 # eSAJ-atos.csv
-Análises a partir do arquivo "atos.csv exportado pelo e-SAJ
+Análises a partir do arquivo "atos.csv" exportado pelo e-SAJ
 
 O portal e-SAJ, desenvolvido pela Softplan, é usado por membros do Ministério Público e Defensoria Pública como interface para o processo eletrônico.
 
