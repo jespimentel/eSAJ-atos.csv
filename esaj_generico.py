@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 #%% Configurações do usuário
 
-arquivo_atos = 'atos_pira.csv'
+arquivo_atos = 'atos.csv'
 nome_arquivo = 'estatisticas_cargos_pira.csv'
 nome_arquivo_1 = 'assuntos_11_pj.csv'
 sel_cargo = '011º PROMOTOR DE JUSTIÇA'
